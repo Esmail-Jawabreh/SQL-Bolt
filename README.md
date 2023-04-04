@@ -387,7 +387,7 @@ DROP TABLE BoxOffice;
 ---
 ---
 
-** Esmail Jawabreh **
+**- Esmail Jawabreh**
 
 
 
