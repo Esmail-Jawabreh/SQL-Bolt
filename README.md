@@ -84,7 +84,7 @@ WHERE Title LIKE "%WALL%";
 ---
 
 ### SQL Lesson 4: Filtering and sorting Query results
-### 1. List all directors of Pixar movies (alphabetically), without duplicates
+#### 1. List all directors of Pixar movies (alphabetically), without duplicates
 ```
 SELECT DISTINCT Director FROM Movies 
 ORDER BY Director;
